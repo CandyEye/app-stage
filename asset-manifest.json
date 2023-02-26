@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.cdb15017.css",
+    "main.css": "/static/css/main.fa747f19.css",
     "main.js": "/static/js/main.c706838c.js",
     "static/media/satoshi.ttf": "/static/media/satoshi.536fda9b164542087fc7.ttf",
     "static/media/cheetah.png": "/static/media/cheetah.5487dc3a33be01873abe.png",
@@ -11,7 +11,7 @@
     "static/media/delete.svg": "/static/media/delete.7d5732d652a3e50f1c7b4b00af101ffe.svg"
   },
   "entrypoints": [
-    "static/css/main.cdb15017.css",
+    "static/css/main.fa747f19.css",
     "static/js/main.c706838c.js"
   ]
 }
