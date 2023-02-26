@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cdb15017.css",
-    "main.js": "/static/js/main.524541fc.js",
+    "main.js": "/static/js/main.c706838c.js",
     "static/media/satoshi.ttf": "/static/media/satoshi.536fda9b164542087fc7.ttf",
     "static/media/cheetah.png": "/static/media/cheetah.5487dc3a33be01873abe.png",
     "static/media/twitter-white.svg": "/static/media/twitter-white.770a05e7c853e96ace1de672de47252a.svg",
@@ -12,6 +12,6 @@
   },
   "entrypoints": [
     "static/css/main.cdb15017.css",
-    "static/js/main.524541fc.js"
+    "static/js/main.c706838c.js"
   ]
 }
