@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1605b045.css",
-    "main.js": "/static/js/main.42528775.js",
+    "main.css": "/static/css/main.32b244ce.css",
+    "main.js": "/static/js/main.c4875d69.js",
     "static/media/satoshi.ttf": "/static/media/satoshi.536fda9b164542087fc7.ttf",
     "static/media/twitter-white.svg": "/static/media/twitter-white.770a05e7c853e96ace1de672de47252a.svg",
     "static/media/discord-white.svg": "/static/media/discord-white.a3e955ee335b04d023ef3cf6d02fd7d8.svg",
@@ -10,7 +10,7 @@
     "static/media/delete.svg": "/static/media/delete.7d5732d652a3e50f1c7b4b00af101ffe.svg"
   },
   "entrypoints": [
-    "static/css/main.1605b045.css",
-    "static/js/main.42528775.js"
+    "static/css/main.32b244ce.css",
+    "static/js/main.c4875d69.js"
   ]
 }
