@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1184cf07.css",
-    "main.js": "/static/js/main.981e2396.js",
+    "main.css": "/static/css/main.cb8562f4.css",
+    "main.js": "/static/js/main.4a2fb8a5.js",
     "static/media/background.png": "/static/media/background.60529428aeee5a7bea94.png",
     "static/media/satoshi.ttf": "/static/media/satoshi.536fda9b164542087fc7.ttf",
     "static/media/logo.svg": "/static/media/logo.f9d7f9a116c01dafb76a3e52ddc7c0df.svg",
@@ -11,7 +11,7 @@
     "static/media/delete.svg": "/static/media/delete.7d5732d652a3e50f1c7b4b00af101ffe.svg"
   },
   "entrypoints": [
-    "static/css/main.1184cf07.css",
-    "static/js/main.981e2396.js"
+    "static/css/main.cb8562f4.css",
+    "static/js/main.4a2fb8a5.js"
   ]
 }
