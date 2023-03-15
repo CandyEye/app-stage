@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.217ef383.css",
-    "main.js": "/static/js/main.0aec50d4.js",
+    "main.css": "/static/css/main.d9e9c307.css",
+    "main.js": "/static/js/main.928cfd22.js",
+    "static/js/inscription.worker.86a03b60.worker.js": "/static/js/inscription.worker.86a03b60.worker.js",
     "static/media/satoshi.ttf": "/static/media/satoshi.536fda9b164542087fc7.ttf",
+    "static/media/logo-square.png": "/static/media/logo-square.7b383a51ae92409b329e.png",
     "static/media/logo.svg": "/static/media/logo.f9d7f9a116c01dafb76a3e52ddc7c0df.svg",
     "static/media/twitter-white.svg": "/static/media/twitter-white.770a05e7c853e96ace1de672de47252a.svg",
     "static/media/discord-white.svg": "/static/media/discord-white.a3e955ee335b04d023ef3cf6d02fd7d8.svg",
+    "static/media/check.svg": "/static/media/check.94dc322fec681299406c14fa95acc398.svg",
     "index.html": "/index.html",
     "static/media/search-icon.svg": "/static/media/search-icon.5814a44adbceaca20b4143b5ee9374e9.svg",
-    "static/media/add-white-thin.svg": "/static/media/add-white-thin.fabeac39131023a98c178368bfdf49bf.svg",
-    "static/media/delete.svg": "/static/media/delete.7d5732d652a3e50f1c7b4b00af101ffe.svg"
+    "static/media/xmark.svg": "/static/media/xmark.035906a1eb6419b8736e662658153149.svg",
+    "static/media/add-white-thin.svg": "/static/media/add-white-thin.fabeac39131023a98c178368bfdf49bf.svg"
   },
   "entrypoints": [
-    "static/css/main.217ef383.css",
-    "static/js/main.0aec50d4.js"
+    "static/css/main.d9e9c307.css",
+    "static/js/main.928cfd22.js"
   ]
 }
